@@ -1,0 +1,12 @@
+{
+  "name": "<PROJECT_NAME_PLACEHOLDER>-config",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./src/Config.ts",
+  "dependencies": {
+    "nars-common": "1.0.0-alpha.3"
+  },
+  "devDependencies": {
+    "typescript": "~3.7.0"
+  }
+}

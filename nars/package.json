@@ -1,0 +1,20 @@
+{
+  "name": "<PROJECT_NAME_PLACEHOLDER>-workspace",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "client",
+      "server",
+      "config"
+    ],
+    "nohoist": [
+      "**/react-native",
+      "**/react-native/**"
+    ]
+  },
+  "scripts": {
+    "android": "yarn workspace client android",
+    "ios": "yarn workspace client ios"
+  }
+}

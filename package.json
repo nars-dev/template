@@ -1,0 +1,21 @@
+{
+  "name": "nars-template",
+  "version": "1.0.0-alpha.1",
+  "description": "Minimal full stack template for nars projects",
+  "files": [
+    "template",
+    "template.config.js",
+    "script.js",
+    "nars"
+  ],
+  "repository": "https://github.com/nars-dev/full-stack-template.git",
+  "author": "Wojtek Czekalski <me@wczekalski.com>",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "nars",
+    "typescript",
+    "template",
+    "boilerplate"
+  ]
+}
