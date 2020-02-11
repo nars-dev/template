@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="591" height="245" src="./assets/header_image.png">
+  <img width="70%" src="./assets/header_image.png">
 </p>
 <h3 align="center">
   Full stack React Native template for greenfield <a href="https://github.com/nars-dev/nars">nars</a> projects
